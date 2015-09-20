@@ -3,7 +3,7 @@ Apple Music Festival Downloader - London 2015
 2. Give execution permission to the script: `chmod 777 itunes-festival.sh`
 3. Launch the script: `./itunes-festival.sh day artist`
 Please, remember: NO SPACE IN THE ARTIST NAME!
-F.e: Tony Bennett = tonybennett, The Script = thescript. Thanks!
+F.e: Ellie Goulding = elliegoulding, Take That = takethat. Thanks!
 	Examples: `./itunes-festival.sh 19 elliegoulding` 
 		  `./itunes-festival.sh 19 andraday`
 4. Have fun!
